@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T14:03:40.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="sOXEtUV3rcd5m3cp97ki" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T15:05:43.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="cRRBbC7N2aRtchiNpBl9" version="16.6.2" type="github">
   <diagram id="FLU-I-njA0bQxAAe2dcF" name="Page-1">
-    <mxGraphModel dx="1214" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="590" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,7 +95,7 @@
         <mxCell id="bJ7z7ISXswwMtIVj786u-27" value="demande facturation" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.0667" y="18" width="160" relative="1" as="geometry">
             <mxPoint x="130" y="260" as="sourcePoint" />
-            <mxPoint x="100" y="200" as="targetPoint" />
+            <mxPoint x="110" y="200" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
