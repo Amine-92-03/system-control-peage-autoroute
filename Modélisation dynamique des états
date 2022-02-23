@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T08:34:57.757Z" agent="5.0 (Windows)" etag="NLMFdEuIdRepChsdxEg5" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T08:38:24.159Z" agent="5.0 (Windows)" etag="cwK4_RC2Ka5NJR5IvPQJ" version="16.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -200,6 +200,39 @@
             <mxPoint x="805" y="500" as="sourcePoint" />
             <mxPoint x="805" y="580" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-8" value="Lecture des données sur le badge" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-9" value="Machine à état du cas &quot;Paiement télépéage&quot;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="810" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-10" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KYvRFbzrGtpQtGPmyiJy-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="890" as="sourcePoint" />
+            <mxPoint x="275" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-11" value="Édition d&#39;une facture" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-12" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="1020" as="sourcePoint" />
+            <mxPoint x="275" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-13" value="Envoi d&#39;une facture par mail" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-14" value="Données lues" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275" y="920" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-15" value="Facture éditée" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275" y="1040" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-16" value="&lt;div&gt;Données enregistrées&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275" y="670" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
