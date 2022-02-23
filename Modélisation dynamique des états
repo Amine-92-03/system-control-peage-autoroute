@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T08:00:18.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="21RAF5lymzzBxjlrGuse" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T08:03:39.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="CAW67aQUwFgF-wm0CQnL" version="16.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,6 +129,47 @@
         </mxCell>
         <mxCell id="DdR_Mq_7WDcnazagmit2-40" value="Machine à état du cas &quot;Détecter un obstacle/un danger&quot;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="560" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DdR_Mq_7WDcnazagmit2-43" value="Détection d&#39;un danger" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="735" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DdR_Mq_7WDcnazagmit2-44" value="Danger détecté" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="795" y="680" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DdR_Mq_7WDcnazagmit2-45" value="Affichage à l&#39;écran" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="735" y="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DdR_Mq_7WDcnazagmit2-46" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DdR_Mq_7WDcnazagmit2-43" target="DdR_Mq_7WDcnazagmit2-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="550" as="sourcePoint" />
+            <mxPoint x="285" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdR_Mq_7WDcnazagmit2-47" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DdR_Mq_7WDcnazagmit2-45" target="DdR_Mq_7WDcnazagmit2-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="770" as="sourcePoint" />
+            <mxPoint x="790" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdR_Mq_7WDcnazagmit2-48" value="Écran éteint" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="735" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DdR_Mq_7WDcnazagmit2-49" value="Danger écarté" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DdR_Mq_7WDcnazagmit2-50" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DdR_Mq_7WDcnazagmit2-45" target="DdR_Mq_7WDcnazagmit2-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="805" y="670" as="sourcePoint" />
+            <mxPoint x="680" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="735" y="760" />
+              <mxPoint x="700" y="760" />
+              <mxPoint x="700" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdR_Mq_7WDcnazagmit2-51" value="Danger présent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="735" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
