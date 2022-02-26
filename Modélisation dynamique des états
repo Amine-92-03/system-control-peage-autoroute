@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T13:43:33.552Z" agent="5.0 (Windows)" etag="6Jllwvi1NybhEhkVM-Y1" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T10:40:14.240Z" agent="5.0 (Windows)" etag="1j4MVTPeOoa20kMD00YP" version="16.6.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="2376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -171,71 +171,71 @@
         <mxCell id="DdR_Mq_7WDcnazagmit2-51" value="Danger présent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="590" y="735" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-0" value="Sortir un ticket" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-0" value="Sortir un ticket" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1255" y="450" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-1" value="Machine à état du cas &quot;Sans badge télépéage&quot;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-1" value="Machine à état du cas &quot;Sans badge télépéage&quot;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1080" y="400" width="470" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KYvRFbzrGtpQtGPmyiJy-0">
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KYvRFbzrGtpQtGPmyiJy-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="920" y="480" as="sourcePoint" />
             <mxPoint x="1315" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-3" value="Attendre que le ticket soit pris" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-3" value="Attendre que le ticket soit pris" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1255" y="570" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-4" value="Ticket sorti" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-4" value="Ticket sorti" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1315" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-5" value="Ticket pris" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-5" value="Ticket pris" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1315" y="630" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-6" value="Ouverture de la barrière" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-6" value="Ouverture de la barrière" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1255" y="680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-7" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KYvRFbzrGtpQtGPmyiJy-3" target="KYvRFbzrGtpQtGPmyiJy-6">
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-7" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KYvRFbzrGtpQtGPmyiJy-3" target="KYvRFbzrGtpQtGPmyiJy-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="805" y="500" as="sourcePoint" />
             <mxPoint x="805" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-8" value="Lecture des données sur le badge" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-8" value="Lecture des données sur le badge" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="215" y="860" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-9" value="Machine à état du cas &quot;Paiement télépéage&quot;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-9" value="Machine à état du cas &quot;Paiement télépéage&quot;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="810" width="470" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-10" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KYvRFbzrGtpQtGPmyiJy-8">
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-10" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KYvRFbzrGtpQtGPmyiJy-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-120" y="890" as="sourcePoint" />
             <mxPoint x="275" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-11" value="Édition d&#39;une facture" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-11" value="Édition d&#39;une facture" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="215" y="980" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-12" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-12" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="275" y="1020" as="sourcePoint" />
             <mxPoint x="275" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-13" value="Envoi d&#39;une facture par mail" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-13" value="Envoi d&#39;une facture par mail" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="215" y="1100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-14" value="Données lues" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-14" value="Données lues" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="275" y="920" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-15" value="Facture éditée" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-15" value="Facture éditée" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="275" y="1040" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-16" value="&lt;div&gt;Données enregistrées&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-16" value="&lt;div&gt;Données enregistrées&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="275" y="670" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KYvRFbzrGtpQtGPmyiJy-17" value="&lt;font style=&quot;font-size: 40px&quot;&gt;MODÉLISATION DYNAMIQUE DES ETATS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="-80" width="1010" height="30" as="geometry" />
+        <mxCell id="KYvRFbzrGtpQtGPmyiJy-17" value="&lt;font style=&quot;font-size: 40px&quot;&gt;MODÉLISATION DYNAMIQUE DES ETATS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="-40" width="1010" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
