@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T10:43:54.694Z" agent="5.0 (Windows)" etag="CWx5FYfaEYgXi7fmN-pT" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T14:31:44.491Z" agent="5.0 (Windows)" etag="Z9fK_uzezuw-tPeW4_Lw" version="16.6.3" type="github">
   <diagram id="Wv05aEQesvJ-fPknYbcq" name="Page-1">
-    <mxGraphModel dx="1185" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,6 +154,9 @@
         </mxCell>
         <mxCell id="E91cjj3YjKIsMXqiE3tH-5" value="1..*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="teXepLoKf8EyLAW0lq9--2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Diagramme de bloc&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="50" width="500" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
