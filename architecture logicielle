@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T10:40:27.344Z" agent="5.0 (Windows)" etag="YGcusMZHyE7alddXAloy" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T12:26:39.739Z" agent="5.0 (Windows)" etag="rdAV5w4g5YIUnwHrU-L_" version="16.6.3" type="github">
   <diagram id="FLU-I-njA0bQxAAe2dcF" name="Page-1">
     <mxGraphModel dx="1185" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,6 +105,9 @@
             <mxPoint x="390" y="400" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bJ7z7ISXswwMtIVj786u-29" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;DIAGRAMME DES TACHES&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="50" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cAkURhX6DDXuQ2_eIeGL-1" value="&lt;span&gt;&amp;lt;&amp;lt;service&amp;gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;lt;&amp;lt;Sous Système&amp;gt;&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;b&gt;: SystemFacturation&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="110" width="170" height="60" as="geometry" />
